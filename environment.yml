@@ -1,0 +1,10 @@
+name: stylegan2
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - tensorflow-gpu=1.14
+  - cudatoolkit=10
+  - pillow
+  - requests
+  - tqdm
